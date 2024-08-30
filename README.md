@@ -1,6 +1,6 @@
 # Image-Processing-Pipeline-for-Feature-Detection-Using-OpenCV
 
-## This project implements an advanced image processing pipeline using OpenCV. The pipeline performs a series of transformations and feature detection tasks on an input image to highlight and analyze key features.
+### This project implements an advanced image processing pipeline using OpenCV. The pipeline performs a series of transformations and feature detection tasks on an input image to highlight and analyze key features.
 
 
 ## Key Features:
