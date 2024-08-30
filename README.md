@@ -1,16 +1,16 @@
 # Image-Processing-Pipeline-for-Feature-Detection-Using-OpenCV
 
 #### This project implements an advanced image processing pipeline using OpenCV. The pipeline performs a series of transformations and feature detection tasks on an input image to highlight and analyze key features.
-<p> This application provides the following functionalities:
-1. Edge Detection (Canny): Adjust thresholds using trackbars.
-2. Contour Detection: Displays contours of objects.
-3. Hough Line Transform: Detects and draws lines in the image.
-4. Face Detection: Detects faces using a pre-trained Haar Cascade.
-5. Adaptive Thresholding: Handles varying lighting conditions.
-6. Automatic Saving: All processed images are automatically saved to 'FACE_DETECTED' folder.
-7. Manual Save: Press 's' to save all processed images manually.
-8. Exit: Press 'ESC' key to exit the application.
---------------------------------------------- </p> 
+### This application provides the following functionalities:
+#### 1. Edge Detection (Canny): Adjust thresholds using trackbars.
+#### 2. Contour Detection: Displays contours of objects.
+#### 3. Hough Line Transform: Detects and draws lines in the image.
+#### 4. Face Detection: Detects faces using a pre-trained Haar Cascade.
+#### 5. Adaptive Thresholding: Handles varying lighting conditions.
+#### 6. Automatic Saving: All processed images are automatically saved to 'FACE_DETECTED' folder.
+#### 7. Manual Save: Press 's' to save all processed images manually.
+#### 8. Exit: Press 'ESC' key to exit the application.
+#### --------------------------------------------- 
 
 ## Key Features:
 ### Original Image Display: Provides a baseline view of the input image.
