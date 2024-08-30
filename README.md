@@ -13,7 +13,7 @@
 #### --------------------------------------------- 
 
 ## Key Features:
-#### ![mermaid](https://github.com/user-attachments/assets/3934426d-fefe-4c3f-b795-433bf82ea82c)
+<img src="https://github.com/user-attachments/assets/3934426d-fefe-4c3f-b795-433bf82ea82c" alt="Image-Processing-Pipeline-for-Feature-Detection-Using-OpenCV" width="300"/>
 
 ### Original Image Display: Provides a baseline view of the input image.
 ![Image](https://github.com/user-attachments/assets/0a0f092d-1124-4d59-9554-ffbcadd72163)
