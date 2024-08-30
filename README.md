@@ -14,7 +14,7 @@
 
 ## Key Features:
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/3934426d-fefe-4c3f-b795-433bf82ea82c" alt="Image-Processing-Pipeline-for-Feature-Detection-Using-OpenCV" width="150" height="300"/>
+  <img src="https://github.com/user-attachments/assets/3934426d-fefe-4c3f-b795-433bf82ea82c" alt="Image-Processing-Pipeline-for-Feature-Detection-Using-OpenCV" width="150" height="700"/>
 </div>
 
 
